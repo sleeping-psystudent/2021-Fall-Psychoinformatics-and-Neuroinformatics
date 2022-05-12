@@ -4,7 +4,7 @@ import socket,pickle
 code='utf-8'
 c=socket.socket(socket.AF_INET,socket.SOCK_STREAM)
 c.connect(('hpc.psy.ntu.edu.tw', 1234))
-c.sendall('b8207042'.encode(code)) # Change your ID here!
+c.sendall('b08207042'.encode(code)) # Change your ID here!
 print(c.recv(9).decode(code)) # Should show your ID!
 
 w=visual.Window(size=[800,400],units='norm')
