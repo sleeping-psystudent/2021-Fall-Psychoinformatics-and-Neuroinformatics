@@ -1,7 +1,7 @@
 # 2021-Psychoinformatics-and-Neuroinformatics-Practice
 ## 簡介
-* 課程名稱：心理與神經資訊學
-* 授課教師：黃從仁 老師
+* 課程名稱：[心理與神經資訊學](https://coursemap.aca.ntu.edu.tw/course_map_all/course.php?code=227+U9340)
+* 授課教師：[黃從仁](http://www.psy.ntu.edu.tw/index.php/members/faculty/fulltime-faculty/302-huang-tsung-ren) 老師
 * 設課學期：110-1
 
 ## 單元說明
