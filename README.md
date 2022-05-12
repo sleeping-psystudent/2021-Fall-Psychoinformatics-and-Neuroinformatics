@@ -4,7 +4,7 @@
 * 授課教師：[黃從仁](http://www.psy.ntu.edu.tw/index.php/members/faculty/fulltime-faculty/302-huang-tsung-ren) 老師
 * 授課學期：110-1
 
-## 單元說明
+## 課程單元
 
 W1：課程簡介+基本程式設計 (Python)+基本資料分析 (NumPy &amp; Pandas)
 
